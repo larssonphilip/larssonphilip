@@ -13,24 +13,21 @@ I'm a **software developer** with a passion for building efficient and scalable 
 - **Languages**: JavaScript, TypeScript, Python, Swift, Objective-C, C#
 - **Frameworks**: React Native, Firebase, Express, Node.js
 - **Mobile Development**: iOS (iOS 11+), Android, macOS apps
-- **Other**: Hammerspoon, Neovim, Nix, macOS
+- **Other**: Hammerspoon, Neovim, macOS
 
 ## 🌱 I'm currently learning
 
 - Golang.
 - Building more sophisticated GUIs with **React Native** for macOS apps.
 - **Serverless architectures** with Firebase.
+- **Nix**
 
 ## 💻 Featured Projects
 
 - **[Compacto](https://github.com/larssonphilip/compacto)**: Automating media compression.
 - **[Password Generator](https://github.com/larssonphilip/secret-password-generator)**: Helping users generate secure passwords.
 
-## 💬 Get in touch
 
-- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/larssonphilip/)
-- Email: [philiplarsson@mail.com](mailto:philiplarsson@mail.com)
-  
 Thanks for stopping by! 😊 Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
 
 ---
