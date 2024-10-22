@@ -5,8 +5,8 @@ I'm a **software developer** with a passion for building efficient and scalable 
 ## 🔭 What I'm currently working on
 
 - **[Compacto](https://github.com/larssonphilip/compacto)**: A macOS app that automatically compresses images, videos, and PDFs with a user-friendly GUI.
-- **Subscription Tracker App**: A React Native app to help users manage subscriptions with a calendar feature.
-- **Exploring Hammerspoon** for macOS automation and enhancing productivity.
+- **Subscription Tracker App**: A React Native app to help users manage subscriptions with a calendar overview.
+- **Developing Raycast extensions** for developer productivity 
   
 ## 🛠 Technologies & Tools
 
