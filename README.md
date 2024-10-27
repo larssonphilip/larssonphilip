@@ -5,8 +5,9 @@ I'm a **software developer** with a passion for building efficient and scalable 
 ## 🔭 What I'm currently working on
 
 - **[Compacto](https://github.com/larssonphilip/compacto)**: A macOS app that automatically compresses images, videos, and PDFs with a user-friendly GUI.
+- **[Nero](https://github.com/larssonphilip/nero)**: A simple terminal based text editor in Go.
 - **Subscription Tracker App**: A React Native app to help users manage subscriptions with a calendar overview.
-- **Developing Raycast extensions** for developer productivity 
+- **Developing Raycast extensions** for developer productivity
   
 ## 🛠 Technologies & Tools
 
@@ -25,8 +26,8 @@ I'm a **software developer** with a passion for building efficient and scalable 
 ## 💻 Featured Projects
 
 - **[Compacto](https://github.com/larssonphilip/compacto)**: Automating media compression.
+- **[Nero](https://github.com/larssonphilip/nero)**: Terminal based text editor.
 - **[Password Generator](https://github.com/larssonphilip/secret-password-generator)**: Helping users generate secure passwords.
-
 
 Thanks for stopping by! 😊 Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
 
