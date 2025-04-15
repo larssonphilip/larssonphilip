@@ -2,6 +2,8 @@
 
 I'm a **software developer** with a passion for building efficient and scalable applications. Here you'll find my latest projects, contributions, and things I'm currently working on.
 
+🚀 Currently on a mission to make learning Farsi accessible and delightful with **[Zaboon](https://getzaboon.app)**.
+
 ## 🔭 What I'm currently working on
 
 - **[Zaboon](https://getzaboon.app)**: A modern, ad-free app for learning Farsi through personalized, spaced-repetition powered lessons.
