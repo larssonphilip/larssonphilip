@@ -37,5 +37,3 @@ Thanks for stopping by! 😊 Feel free to explore my repositories and reach out 
 ---
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=larssonphilip&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/larssonphilip/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larssonphilip&show_icons=true&theme=react&card_width=475)](https://github.com/larssonphilip/github-readme-stats)
