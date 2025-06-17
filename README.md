@@ -35,5 +35,3 @@ I'm a **software developer** with a passion for building efficient and scalable 
 Thanks for stopping by! 😊 Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
 
 ---
-
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=larssonphilip&show_icons=true&theme=react&rank_icon=github&card_width=475)](https://github.com/larssonphilip/github-readme-stats)
