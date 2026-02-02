@@ -6,6 +6,7 @@ I'm a **software developer** with a passion for building efficient and scalable 
 
 ## 🔭 What I'm currently working on
 
+- **[Relay](https://github.com/larssonphilip/relay)**: A local-first, extensible AI assistant for home automation, tooling, and electronics — runs on your machine and integrates with real systems.
 - **[Zaboon](https://getzaboon.app)**: A modern, ad-free app for learning Farsi through personalized, spaced-repetition powered lessons.
 - **[Compacto](https://github.com/larssonphilip/compacto)**: A macOS app that automatically compresses images, videos, and PDFs with a user-friendly GUI.
 - **[Nero](https://github.com/larssonphilip/nero)**: A simple terminal based text editor in Go.
@@ -15,6 +16,7 @@ I'm a **software developer** with a passion for building efficient and scalable 
 ## 🛠 Technologies & Tools
 
 - **Languages**: JavaScript, TypeScript, Python, Swift, Objective-C, C#
+- **AI & Automation**: Local-first agents for automation, hardware integration
 - **Frameworks**: React Native, Firebase, Express, Node.js
 - **Mobile Development**: iOS (iOS 11+), Android, macOS apps
 - **Other**: Hammerspoon, Neovim, macOS
@@ -28,6 +30,7 @@ I'm a **software developer** with a passion for building efficient and scalable 
 
 ## 💻 Featured Projects
 
+- **[Relay](https://github.com/larssonphilip/relay)**: Local-first AI assistant focused on automation, dev workflows, and interacting with devices and services.
 - **[Compacto](https://github.com/larssonphilip/compacto)**: Automating media compression.
 - **[Nero](https://github.com/larssonphilip/nero)**: Terminal based text editor.
 - **[Password Generator](https://github.com/larssonphilip/secret-password-generator)**: Helping users generate secure passwords.
