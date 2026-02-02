@@ -6,7 +6,7 @@ I'm a **software developer** with a passion for building efficient and scalable 
 
 ## 🔭 What I'm currently working on
 
-- **[Relay](https://github.com/larssonphilip/relay)**: A local-first, extensible AI assistant for home automation, tooling, and electronics — runs on your machine and integrates with real systems.
+- **[Relay](https://github.com/larssonphilip/relay)**: A local-first, extensible AI assistant for home automation, tooling, and electronics.
 - **[Zaboon](https://getzaboon.app)**: A modern, ad-free app for learning Farsi through personalized, spaced-repetition powered lessons.
 - **[Compacto](https://github.com/larssonphilip/compacto)**: A macOS app that automatically compresses images, videos, and PDFs with a user-friendly GUI.
 - **[Nero](https://github.com/larssonphilip/nero)**: A simple terminal based text editor in Go.
