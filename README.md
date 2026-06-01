@@ -1,6 +1,6 @@
 # Hi there, I'm Philip! 👋
 
-I'm a **software developer** with a passion for building efficient and scalable applications. Here you'll find my latest projects, contributions, and things I'm currently working on.
+I'm a **Senior Software Engineer** with a passion for building efficient and scalable applications. Here you'll find my latest projects, contributions, and things I'm currently working on.
 
 🚀 Currently on a mission to make learning Farsi accessible and delightful with **[Zaboon](https://getzaboon.app)**.
 
