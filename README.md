@@ -3,9 +3,11 @@
 I'm a **Senior Software Engineer** with a passion for building efficient and scalable applications. Here you'll find my latest projects, contributions, and things I'm currently working on.
 
 🚀 Currently on a mission to make learning Farsi accessible and delightful with **[Zaboon](https://getzaboon.app)**.
+🏃‍♂️‍➡️ Pace - Zero to 5K Runner now in beta: **[Test here](https://pace.philiplarsson.dev)**.
 
 ## 🔭 What I'm currently working on
 
+- **[Pace](https://pace.philiplarsson.dev)**: a modern Couch-to-5K app for iPhone. One-time price, no subscription.
 - **[Relay](https://github.com/larssonphilip/relay)**: A local-first, extensible AI assistant for home automation, tooling, and electronics.
 - **[Zaboon](https://getzaboon.app)**: A modern app for learning Farsi through personalized, spaced-repetition powered lessons.
 - **[Compacto](https://github.com/larssonphilip/compacto)**: A macOS app that automatically compresses images, videos, and PDFs with a user-friendly GUI.
