@@ -2,7 +2,7 @@
 
 I'm a **Senior Software Engineer** with a passion for building efficient and scalable applications. Here you'll find my latest projects, contributions, and things I'm currently working on.
 
-🚀 Currently on a mission to make learning Farsi accessible and delightful with **[Zaboon](https://getzaboon.app)**.
+🚀 Currently on a mission to make learning Farsi accessible and delightful with **[Zaboon](https://getzaboon.app)**.  
 🏃‍♂️‍➡️ Pace - Zero to 5K Runner now in beta: **[Test here](https://pace.philiplarsson.dev)**.
 
 ## 🔭 What I'm currently working on
